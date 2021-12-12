@@ -24,7 +24,7 @@ techniques of systems development</li></ul> </p>
   
   <ul>
     <li>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?</li>
-    <li>Present and articulate technical concepts to non-technical audiences</li>
+    <li>What did you do particularly well?</li>
   </ul>
   <ul>
 
