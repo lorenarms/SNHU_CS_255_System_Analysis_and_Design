@@ -19,6 +19,8 @@ techniques of systems development</li></ul> </p>
 
 
 <h3>Final Reflections and Questions</h3>
+
+<p>
 <ul>
 
     <li>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?</li>
@@ -28,3 +30,5 @@ techniques of systems development</li></ul> </p>
     <li>How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?</li>
 
 </ul>
+</p>
+
