@@ -21,7 +21,12 @@ techniques of systems development</li></ul> </p>
 <h3>Final Reflections and Questions</h3>
 
 <p>
-<ul>
+  
+  <ul>
+    <li>Create various system models through the application of appropriate tools</li>
+    <li>Present and articulate technical concepts to non-technical audiences</li>
+  </ul>
+  <ul>
 
     <li>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?</li>
     <li>What did you do particularly well?</li>
@@ -29,6 +34,6 @@ techniques of systems development</li></ul> </p>
     <li>How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?</li>
     <li>How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?</li>
 
-</ul>
+  </ul>
 </p>
 
