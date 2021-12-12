@@ -23,7 +23,7 @@ techniques of systems development</li></ul> </p>
 <p>
   
   <ul>
-    <li>Create various system models through the application of appropriate tools</li>
+    <li>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?</li>
     <li>Present and articulate technical concepts to non-technical audiences</li>
   </ul>
   <ul>
