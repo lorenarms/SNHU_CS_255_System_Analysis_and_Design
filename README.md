@@ -9,6 +9,8 @@
 <p>Collect requirements from the DriverPass client. Identify and analyze these requirements in a business requirements document and a model application short paper. In this project, you will demonstrate your mastery of the following competency:<ul><li>Explain the principles, methods, and 
 techniques of systems development</li></ul> </p>
 
+
+
 <h3>Project Two</h3>
 <p>Create a system design document for the DriverPass system based on the requirements you collected. Then create a presentation describing your system design. In this project, you will demonstrate your mastery of the following competencies: 
   <ul>
@@ -17,17 +19,23 @@ techniques of systems development</li></ul> </p>
   </ul>
 </p>
 
+<hr>
 
 <h3>Final Reflections and Questions</h3>
 
 <p>
   
-  <ul>
+  <ol>
     <li>Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?</li>
+    <ul><li><em>Answer</em></li></ul>
     <li>What did you do particularly well?</li>
+    <ul><li><em>Answer</em></li></ul>
     <li>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</li>
+    <ul><li><em>Answer</em></li></ul>
     <li>How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?</li>
+    <ul><li><em>Answer</em></li></ul>
     <li>How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?</li>
-  </ul>
+    <ul><li><em>Answer</em></li></ul>
+  </ol>
 </p>
 
